@@ -234,3 +234,4 @@ public class EnterpriseTransactionManager {
 // Hash 4305
 // Hash 8525
 // Hash 1397
+// Hash 6298
